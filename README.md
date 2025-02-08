@@ -170,3 +170,4 @@ func photoOutput(_ output: AVCapturePhotoOutput, didFinishProcessingPhoto photo:
 [8]:	https://developer.apple.com/documentation/avfoundation/avcapturedataoutputsynchronizerdelegate/2873976-dataoutputsynchronizer
 [9]:	https://developer.apple.com/documentation/avfoundation/avcapturesynchronizeddatacollection
 [10]:	https://developer.apple.com/documentation/avfoundation/avcapturephoto
+# lidar
